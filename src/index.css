@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hover:hover{
+    /* scale: 1.1; */
+    /* transform: rotate(190deg); */
+    /* transform: skew(20deg); */
+    translate: 0px -20px ;
+    transition: 1s ease;
+}
